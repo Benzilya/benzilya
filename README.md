@@ -17,10 +17,10 @@
 </p>
 <div align="center">
 
-![Postman](https://img.shields.io/badge/-Postman-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![DevTools](https://img.shields.io/badge/-DevTools-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
-![Charles](https://img.shields.io/badge/-Charles-%23092E20?logo=django&style=for-the-badge&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-%233776ab?logo=Postman&style=for-the-badge&logoColor=white)
+![DevTools](https://img.shields.io/badge/-DevTools-%23eeeeee?logo=DevTools&style=for-the-badge&logoColor=black)
+![Charles](https://img.shields.io/badge/-Charles-%23092E20?logo=Charles&style=for-the-badge&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-%234fc08d?logo=Kafka&style=for-the-badge&logoColor=white)
 
 </div>
 
