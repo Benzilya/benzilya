@@ -1,5 +1,6 @@
 ## Всем привет! 👋
-
+Меня зовут Илья, я QA-инженер.
+Люблю находить баги, бегать и спать
 <!--
 **Benzilya/benzilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
