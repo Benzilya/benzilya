@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=36&pause=1000&color=F7F7F7&background=8639FF&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Frost+Ming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=36&pause=1000&color=F7F7F8&background=8639FE&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I'm+Benzilya+)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benzilya)
 [![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)]([https://benzilya.github.io/])
