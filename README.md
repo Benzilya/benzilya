@@ -26,7 +26,7 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=benzilya&show_icons=true&theme=dracula&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=bebzilya&theme=dracula&show_icons=true" />
+  <img height="150" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=benzilya&theme=dracula&show_icons=true" />
 </p>
 <div align="center">
 
