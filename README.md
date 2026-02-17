@@ -8,9 +8,17 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=benzilya)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=benzilya)
+<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
+<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
+
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+
+<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
+
+<br>
 
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benzilya)
 [![](https://img.shields.io/badge/site-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)]([https://benzilya.github.io/])
