@@ -15,7 +15,7 @@
 <br>
 
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benzilya)
-[![](https://img.shields.io/badge/site-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)][https://benzilya.github.io/]
+[![](https://img.shields.io/badge/site-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://benzilya.github.io/)
 
 </div>
 
