@@ -7,9 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=34&pause=500&color=FFA421&background=2E3234&center=true&vCenter=true&random=true&width=440&lines=Hello%2C+let's+catch+bugs!+)](https://git.io/typing-svg)
 
 ## 📊 Статистика
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=4&hide_progress=true&username=benzilya)
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=benzilya)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=benzilya)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
