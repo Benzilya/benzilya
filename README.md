@@ -8,10 +8,10 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Benzilya)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=benzilya)
 
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/benzilya)
-[![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)]([https://benzilya.github.io/])
+[![](https://img.shields.io/badge/site-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)]([https://benzilya.github.io/])
 
 </div>
 
@@ -22,9 +22,9 @@
 <div align="center">
 
 ![Postman](https://img.shields.io/badge/-Postman-%233776ab?logo=Postman&style=for-the-badge&logoColor=white)
-![DevTools](https://img.shields.io/badge/-DevTools-%23eeeeee?logo=DevTools&style=for-the-badge&logoColor=black)
-![Charles](https://img.shields.io/badge/-Charles-%23092E20?logo=Charles&style=for-the-badge&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-%234fc08d?logo=Kafka&style=for-the-badge&logoColor=white)
+![DevTools](https://img.shields.io/badge/-DevTools-%23eeeeee?logo=DevTools&style=for-the-badge&logoColor=silver)
+![Charles](https://img.shields.io/badge/-Charles-%23092E20?logo=Charles&style=for-the-badge&logoColor=yellow)
+![Kafka](https://img.shields.io/badge/-Kafka-%234fc08d?logo=Kafka&style=for-the-badge&logoColor=black)
 
 </div>
 
