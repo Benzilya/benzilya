@@ -10,12 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=4&hide_progress=true&username=benzilya)
 ![](https://github-readme-stats.vercel.app/api?theme=react&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=benzilya)
 
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
 ![](https://github-readme-activity-graph.vercel.app/graph?&theme=aura&username=benzilya)
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
 
@@ -36,18 +31,3 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-%234fc08d?logo=Kafka&style=for-the-badge&logoColor=black)
 
 </div>
-
-<!--
-**Benzilya/benzilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
