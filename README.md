@@ -2,8 +2,13 @@
 Меня зовут Илья, я QA-инженер.
 Люблю находить баги, бегать и спать
 
-<p>В работе использую DevTools, Postman</p>
-<p>В работе использую DevTools, Postman</p>
+<p>Использую DevTools, Postman</p>
+<p>Работаю с PostgreSQL, MySQL</p>
+<p>Пользуюсь Charles</p>
+<p>Такстрекер: Яндекс Трекер, Jira</p>
+<p>TMS: Test it</p>
+<p>Логи: Kibana, Sentry</p>
+
 
 <div align="center">
 
