@@ -2,6 +2,9 @@
 Меня зовут Илья, я QA-инженер.
 Люблю находить баги, бегать и спать
 
+<p>В работе использую DevTools, Postman</p>
+<p>В работе использую DevTools, Postman</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=34&pause=500&color=FFA421&background=2E3234&center=true&vCenter=true&random=true&width=440&lines=Hello%2C+let's+catch+bugs!+)](https://git.io/typing-svg)
